@@ -1,0 +1,9 @@
+# Ignore Data (Too big for GitHub)
+data/
+
+# Ignore Virtual Environment (System specific)
+.venv/
+__pycache__/
+
+# Ignore Mac system files
+.DS_Store
